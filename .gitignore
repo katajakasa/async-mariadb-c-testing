@@ -1,0 +1,11 @@
+venv
+virtualenv
+.venv
+.virtualenv
+Release
+aiomariadb/*.dll
+aiomariadb/*.c
+aiomariadb/*.pyd
+.idea
+venv
+Release
